@@ -1,0 +1,42 @@
+body{
+    background-color: burlywood;
+}
+.container {
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.box {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    width: 250px;
+    padding: 20px;
+}
+.blue{
+background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color:green
+}
+.whitesmoke{
+    background-color: whitesmoke;
+}
+.brown{
+    background-color: brown;
+}
+.purple{
+    background-color: purple;
+}
+.pink{
+    background-color: pink;
+}
